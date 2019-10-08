@@ -1,0 +1,5 @@
+*alias arbolito="git log --all --graph --decorate --oneline"
+sirve para ver el flujo graficado y ordenado 
+
+*alias fucion="git pull origin master --allow-unrelated-histories" 
+-> Fusionar masters de GitHub y Git
